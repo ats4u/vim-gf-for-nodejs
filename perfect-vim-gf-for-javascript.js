@@ -3,7 +3,7 @@
 " Modified on 2023/09/26 17:19:46
 " COPY THIS FILE TO "$HOME/.vim/plugin/perfect-vim-gf-for-javascript.js"
 
-" This plugin let you 'gf' jump with filenames such as:
+" This plugin enables you to 'gf'-jump from filenames such as:
 " require( 'module_name/foo.js' ) // a path to a filename
 " require( 'module_name/foo'    ) // a path to a filename without its file extension
 " require( 'module_name/'       ) // a path to a directory without filename
